@@ -52,7 +52,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Undine&lt;/i&gt; is a novella that tells the tale of Undine, a water spirit, who marries a knight in order to gain a soul. It is the most influential novel written by Friedrich Heinrich Karl.&lt;/p&gt;
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2825</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
